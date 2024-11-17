@@ -1,0 +1,1 @@
+Accessibility (a11y) ensures that digital products are usable by everyone, including people with disabilities. This README provides guidelines for implementing and maintaining accessibility standards to improve user experience, comply with legal requirements, and broaden audience reach.
