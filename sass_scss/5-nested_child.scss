@@ -1,9 +1,14 @@
-/* Nested child declarations */
+/* i use to save hoes with mask and cave... */
+
+$text-color: #3D3D3D;
+$color-text: #FF0000;
 
 body {
-  color: #3D3D3D; 
-  
-  .red {
-    color: #FF0000; 
-  }
+	color: $text-color;
+}
+
+body {
+	> .red {
+		color: $color-text; 
+	}
 }
